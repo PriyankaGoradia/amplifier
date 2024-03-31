@@ -1,4 +1,4 @@
-# ECE 302 Lab #2 - Transistor Amplifier
+Transistor Amplifier
 
 ## Abstract
 
